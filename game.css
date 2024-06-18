@@ -1,4 +1,27 @@
-#btn{
-    margin-left:auto;
-  width: 50%;
+body {
+  margin: 3;
+  background-color: #271d2b;
+}
+
+button{
+  background-color: #d6537f;
+  color: white;
+  padding: 20px 20px;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  font-size: 20px;
+  font-family: "Rubik Mono One", monospace;
+  position: absolute;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 40px;
+  box-shadow: 0 5px 15px rgba(226, 189, 233, 0.418);
+}
+
+button:hover {
+  background-color: #e998ac;
+  color: white;
+  transition: 0.2s;
 }

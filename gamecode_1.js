@@ -245,7 +245,7 @@ function hitBomb (player, bomb)
 {
     this.physics.pause();
 	//the player turns red
-    player.setTint(0xff0000);
+    player.setTint(0xD75478);
 
     player.anims.play('turn');
 	//and gets a game over
