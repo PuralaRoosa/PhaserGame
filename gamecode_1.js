@@ -103,7 +103,7 @@
             frames: this.anims.generateFrameNumbers('dude', { start: 0, end: 5 }),
 			//set how many frames of the sprtiesheet are shown per second
             frameRate: 10,
-			//makes possible to move infintely
+			//makes possible to move infinitely
             repeat: -1
         });
 		
@@ -122,7 +122,7 @@
             frames: this.anims.generateFrameNumbers('dude', { start: 7, end: 13 }),
 			//set how many frames of the sprtiesheet are shown per second
             frameRate: 10,
-			//makes possible to move infintely
+			//makes possible to move infinitely
             repeat: -1
         });
 		//translates keyboard inputs into player character movement
