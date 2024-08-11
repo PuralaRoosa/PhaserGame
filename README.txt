@@ -1,1 +1,0 @@
-Laita koko phaz kansio xampin sisällä htdocs kansioon ja sitten mene linnkkiin: http://localhost/phaz/index
